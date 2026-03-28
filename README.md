@@ -45,20 +45,20 @@
 
 ### Option 1 — Go Install
 ```bash
-go install github.com/yourusername/subhunter/cmd@latest
+go install github.com/mana404/subhunter/cmd@latest
 ```
 
 ### Option 2 — Download Binary
 ```bash
 # Linux (amd64)
-wget https://github.com/yourusername/subhunter/releases/latest/download/subhunter-linux-amd64
+wget https://github.com/mana404/subhunter/releases/latest/download/subhunter-linux-amd64
 chmod +x subhunter-linux-amd64
 sudo mv subhunter-linux-amd64 /usr/local/bin/subhunter
 ```
 
 ### Option 3 — Build from Source
 ```bash
-git clone https://github.com/yourusername/subhunter
+git clone https://github.com/mana404/subhunter
 cd subhunter
 make build
 # or: go build -o subhunter ./cmd/
@@ -190,3 +190,5 @@ MIT License — see [LICENSE](LICENSE)
 
 Made with ❤️ for the bug bounty community  
 If this helped you find a bug, give it a ⭐
+instagram: https://www.instagram.com/h4ck3r_gobinda/
+           https://www.instagram.com/0x_g0binda/

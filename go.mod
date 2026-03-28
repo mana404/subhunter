@@ -1,4 +1,4 @@
-module github.com/yourusername/subhunter
+module github.com/mana404/subhunter
 
 go 1.21
 

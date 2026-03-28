@@ -6,9 +6,9 @@ import (
 
 	"github.com/fatih/color"
 	"github.com/urfave/cli/v2"
-	"github.com/yourusername/subhunter/pkg/output"
-	"github.com/yourusername/subhunter/pkg/resolver"
-	"github.com/yourusername/subhunter/pkg/sources"
+	"github.com/mana404/subhunter/pkg/output"
+	"github.com/mana404/subhunter/pkg/resolver"
+	"github.com/mana404/subhunter/pkg/sources"
 )
 
 const banner = `

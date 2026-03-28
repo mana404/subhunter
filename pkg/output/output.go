@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/yourusername/subhunter/pkg/sources"
+	"github.com/mana404/subhunter/pkg/sources"
 )
 
 // Config holds output settings
