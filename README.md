@@ -4,7 +4,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Build](https://github.com/yourusername/subhunter/actions/workflows/release.yml/badge.svg)](https://github.com/yourusername/subhunter/actions)
+[![Build](https://github.com/mana404/subhunter/actions/workflows/release.yml/badge.svg)](https://github.com/mana404/subhunter/actions)
 
 ---
 
