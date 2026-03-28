@@ -58,7 +58,7 @@ sudo mv subhunter-linux-amd64 /usr/local/bin/subhunter
 
 ### Option 3 — Build from Source
 ```bash
-git clone https://github.com/mana4040/subhunter
+git clone https://github.com/mana404/subhunter
 cd subhunter
 make build
 # or: go build -o subhunter ./cmd/
