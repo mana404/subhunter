@@ -4,7 +4,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Build](https://github.com/yourusername/subhunter/actions/workflows/release.yml/badge.svg)](https://github.com/yourusername/subhunter/actions)
+[![Build](https://github.com/yourusername/subhunter/actions/workflows/release.yml/badge.svg)](https://github.com/mana404/subhunter/actions)
 
 ---
 
@@ -45,20 +45,20 @@
 
 ### Option 1 — Go Install
 ```bash
-go install github.com/yourusername/subhunter/cmd@latest
+go install github.com/mana404/subhunter/cmd@latest
 ```
 
 ### Option 2 — Download Binary
 ```bash
 # Linux (amd64)
-wget https://github.com/yourusername/subhunter/releases/latest/download/subhunter-linux-amd64
+wget https://github.com/mana404/subhunter/releases/latest/download/subhunter-linux-amd64
 chmod +x subhunter-linux-amd64
 sudo mv subhunter-linux-amd64 /usr/local/bin/subhunter
 ```
 
 ### Option 3 — Build from Source
 ```bash
-git clone https://github.com/yourusername/subhunter
+git clone https://github.com/mana4040/subhunter
 cd subhunter
 make build
 # or: go build -o subhunter ./cmd/
@@ -186,7 +186,8 @@ Always stay within the defined scope. Never test without permission.
 
 MIT License — see [LICENSE](LICENSE)
 
----
+--- 
 
 Made with ❤️ for the bug bounty community  
 If this helped you find a bug, give it a ⭐
+INSTAGRAM--https://www.instagram.com/0x_g0binda/
